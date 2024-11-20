@@ -1,0 +1,23 @@
+.section2 {
+    padding: 30px 0;
+  }
+  
+  .section2__aside {
+    margin-top: 5%;
+  }
+  
+  .section2__aside h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .section2__aside .list-group-item a {
+    text-decoration: none;
+    color: #4a3c31;
+  }
+  
+  .section2__aside .list-group-item a:hover {
+    color: #6f4e37;
+    text-decoration: underline;
+  }
+ 

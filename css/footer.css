@@ -1,0 +1,28 @@
+.footer {
+    background-color: #6f4e37;
+    color: #f4f1ec;
+    padding: 20px 0;
+  }
+  
+  .footer__image img {
+    width: 150px;
+  }
+  
+  .footer__contacts h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .footer__contacts p {
+    margin: 0;
+  }
+  
+  .footer__socials {
+    margin-top: 20px;
+  }
+  
+  .footer__socials img {
+    width: 30px;
+    margin-right: 10px;
+  }
+  

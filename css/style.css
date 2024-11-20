@@ -1,0 +1,22 @@
+/* Загальні стилі */
+@import url(header.css);
+@import url(section1.css);
+@import url(section2.css);
+@import url(footer.css);
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f1ec;
+    color: #4a3c31;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
